@@ -1,0 +1,28 @@
+E:\oop2\oop 2 lab task\C# Project\C# Project\bin\Debug\C# Project.exe.config
+E:\oop2\oop 2 lab task\C# Project\C# Project\bin\Debug\C# Project.exe
+E:\oop2\oop 2 lab task\C# Project\C# Project\bin\Debug\C# Project.pdb
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C# Project.csproj.AssemblyReference.cache
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.LoginForm.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Properties.Resources.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C# Project.csproj.GenerateResource.cache
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C# Project.csproj.CoreCompileInputs.cache
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C# Project.exe
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C# Project.pdb
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.MenuForAll.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.SignUp_Form.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Resources.Project_UC.UC_home.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Resources.Project_UC.UC_info.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Resources.Project_UC.UC_wishlist.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Resources.Project_UC.UC_AdPost.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Resources.Project_UC.UC_payment.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Payment_new.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Resources.Project_UC.UC_mobile.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Admin_Panel.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Resources.Project_UC.UC_Donate.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Resources.Project_UC.UC_NewAdmin.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Resources.Project_UC.UC_Admin_chng_pass.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Resources.Project_UC.UC_User_table.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Resources.Project_UC.UC_Donation_Table.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Resources.Project_UC.UC_Admin_property.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Resources.Project_UC.UC_Profile.resources
+E:\oop2\oop 2 lab task\C# Project\C# Project\obj\Debug\C__Project.Resources.Project_UC.User_pass_change.resources
